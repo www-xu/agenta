@@ -60,6 +60,7 @@ httpx = ">=0.28.0"
 
 # audit fixes
 h11 = ">=0.16.0"
+alibabacloud-dm20151123 = "1.2.4"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.3.1"
